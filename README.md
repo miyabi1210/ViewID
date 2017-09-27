@@ -1,5 +1,5 @@
 # ViewID
-/vidで手持ちのアイテムidを確認できるnukkitPlugin
+/vidで手持ちのアイテムidを確認できるnukkit/jupiterPlugin
 
 ## ライセンス
 
